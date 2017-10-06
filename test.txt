@@ -1,3 +1,4 @@
 hello world! i am shu.
 from branch.
 from test02.
+from test02_clone.
